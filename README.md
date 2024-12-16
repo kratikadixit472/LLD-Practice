@@ -1,1 +1,1 @@
-Adding daily practice LLD question.
+Adding daily practiced LLD question.
