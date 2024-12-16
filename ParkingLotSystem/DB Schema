@@ -1,0 +1,10 @@
+CREATE TABLE Vehicle {
+    vehicle_id INT PRIMARY KEY,
+    vehicle_type ENUM('CAR', 'BIKE', 'TRUCK') NOT NULL,
+    name_plate VARCHAR(20),
+}
+
+CREATE TABLE Ticket {
+    ticket_id INT PRIMARY KEY,
+    
+}
