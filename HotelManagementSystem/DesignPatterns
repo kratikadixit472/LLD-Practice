@@ -1,0 +1,4 @@
+Factory Pattern - In creating the room class
+Decorator Pattern - In adding the room service
+Observer Pattern - For customers if there is any available romm send notification
+Strategy Pattern - For payment method in room checkout
