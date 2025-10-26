@@ -19,6 +19,7 @@ class Bicyle extends LiskovSubstituionPrinciple {
 }
 
 
+
 // ============Principle======================
 
 
